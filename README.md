@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 Bachelor's degree in Computer Engineering - Federal University of Paraíba (UFPB)
 
 
