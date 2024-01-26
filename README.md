@@ -1,6 +1,5 @@
 #  About Me:
 🎓 Bachelor's degree in Computer Engineering - Federal University of Paraíba (UFPB)
-   
    I have interests in Data Analysis, Artificial Intelligence and Software Engineering.
 
 
